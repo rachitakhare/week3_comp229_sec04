@@ -1,13 +1,13 @@
 {
-  "name": "week3-express",
-  "version": "0.0.0",
+  "name": "comp229win2022_300986795",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./server.js"
   },
   "engines": {
-    "node" :"v16.13.0",
-    "npm" :"^6.0.0"
+    "node": "v16.13.0",
+    "npm": "^6.0.0"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
@@ -20,5 +20,18 @@
     "jquery": "^3.6.0",
     "morgan": "~1.9.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "description": "its a demo website",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachitakhare/week3_comp229_sec04.git"
+  },
+  "author": "Rachita Khare - 3009867965",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachitakhare/week3_comp229_sec04/issues"
+  },
+  "homepage": "https://github.com/rachitakhare/week3_comp229_sec04#readme"
 }
